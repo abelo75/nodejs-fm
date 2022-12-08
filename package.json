@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-fm",
+  "version": "1.0.0",
+  "description": "NodeJS File manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "start:dev": "npm run start -- --username=Piter",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelo75/nodejs-fm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelo75/nodejs-fm/issues"
+  },
+  "homepage": "https://github.com/abelo75/nodejs-fm"
+}
